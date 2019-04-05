@@ -1,3 +1,8 @@
+//
+// Minimal-Beispiel für die Ausgabe eines Strings in eine CSV-Datei
+// Hier wird append verwendet, um Daten anzuhängen.
+// 
+
 import java.io.FileWriter;
 import java.io.IOException;
 
